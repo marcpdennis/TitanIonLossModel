@@ -302,3 +302,6 @@ plt.plot(epsiloni,alt, c = 'black')
 plt.xlabel('Energy (J)')
 plt.ylabel('Altitude (km)')
 plt.show()
+
+
+#Random comment for github version practice
